@@ -2,7 +2,7 @@ Depending on your python version: python3 main.py
 
 TEST RESULTS:
 SMALL SIZE LIST TEST: 
-Algorithm: Insertion Sort, Execution Time: 1.0157098749999989\n
+Algorithm: Insertion Sort, Execution Time: 1.0157098749999989
 Algorithm: Merge Sort, Execution Time: 0.10138058300000097
 Algorithm: Timsort, Execution Time: 0.004635291999996127
 Fastest sorting algorithm for small size list is Timsort with result: 0.004635291999996127
