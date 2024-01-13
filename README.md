@@ -1,4 +1,4 @@
-Depending on your python version: python3 main.py
+Depending on your python version, run: python3 main.py
 
 TEST RESULTS:
 SMALL SIZE LIST TEST: 
